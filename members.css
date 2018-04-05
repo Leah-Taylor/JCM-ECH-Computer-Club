@@ -1,0 +1,180 @@
+
+
+/*
+body {
+  background-image: url(../Images/jcm-cougar-logo.jpg);
+    background-repeat: no-repeat;
+  background-size: 1000px 1000px;
+    background-position: center;
+}
+*/
+
+header {
+  font-size: 40px;
+  background: linear-gradient(#005525 25%, #fecb00, transparent);
+  color: black;
+  background-size: contain;
+  background-repeat: space;
+}
+
+/*
+img {
+  display: block;
+  border-radius: 50px;
+  align-content: center;
+}
+*/
+
+a {
+  text-decoration: none; 
+}
+
+h1 {
+  text-align: center; 
+}
+
+h2,
+h3 {
+ text-align: center; 
+}
+
+h2 {
+  font-size: 40px; 
+}
+
+h3 {
+  font-size: 25px; 
+}
+
+li {
+  font-size: 30px; 
+}
+
+/*-----Class Selectors-----*/
+
+.column {
+    width: 50%;
+  float: right;
+}
+
+.columns {
+    float: left;
+    width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.bruce {
+    margin-left: auto;
+  margin-right: auto;
+    width: 450px;
+}
+
+.president {
+    margin-left: auto;
+  margin-right: auto;
+    width: 450px;
+}
+
+.vice {
+    margin-left: auto;
+  margin-right: auto;
+    width: 450px;
+}
+
+.copy {
+ margin-left: 10pxpx;
+}
+
+.members {
+  display: block;
+  border-radius: 50px;
+  align-content: center;
+  margin-left: 150px;
+}
+
+/*
+.teacher { 
+  float: left;
+}
+
+.presidente {
+  
+}
+
+.vicee {
+  
+}
+*/
+
+.nav {
+  font-size: 45px;
+  display: inline;
+  text-decoration-line: none;
+  padding: 35px;
+}
+
+.main-nav {
+  text-align: center; 
+}
+
+.title {
+  text-align: left; 
+}
+
+.main-title {
+ font-size: 55px; 
+}
+.social {
+ max-width: 12px;
+ max-height: 12px;
+}
+
+
+/*-----Pseudo Classes-----*/
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #fecb00;
+}
+
+/* selected link */
+a:active {
+  color: #fecb00;
+}
+
+/*.vice {
+    width: 25%;
+    float: right;
+    text-align: right; 
+}*/
+
+
+/*-----Media Queries-----*/
+
+
+
+
+
+
+
+
+
+
+
+

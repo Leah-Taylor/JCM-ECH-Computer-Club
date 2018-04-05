@@ -1,0 +1,81 @@
+
+header {
+  font-size: 40px;
+  text-align: center; 
+  color: black;
+  background: linear-gradient(#005525 25%, #fecb00, transparent);
+}
+
+p {
+  font-size: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.nav {
+  font-size: 45px;
+  display: inline;
+  text-decoration-line: none;
+  padding: 35px; 
+}
+
+.title {
+  font-size: 55px; 
+}
+
+a {
+ text-decoration: none;
+}
+
+.image {
+  width: 50%;
+  height: 50%;
+  margin-left: 450px;
+}
+
+.copy {
+ margin-left: 900px;
+}
+
+.social {
+ max-width: 12px;
+ max-height: 12px;
+}
+
+/*.main-nav {
+  font-size:64px;
+  
+  text-align:center;
+  
+   padding:35x;
+  
+   padding-left:35px;
+  
+  padding-top:35px;
+  
+  padding-bottom:35px;
+  
+  font-family:Amatic SC;
+}
+ background: linear-gradient(#005525 25%, #fecb00, transparent);*/
+
+/*-----Pseudo Classes-----*/
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #fecb00;
+}
+
+/* selected link */
+a:active {
+  color: #fecb00;
+}
+
