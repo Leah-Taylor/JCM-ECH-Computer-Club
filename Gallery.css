@@ -32,7 +32,9 @@ a {
   height: 50%;
 }
 
-
+.copy {
+  text-align: center;
+}
 
 .social {
  max-width: 12px;
